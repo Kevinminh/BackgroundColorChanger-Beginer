@@ -5,6 +5,16 @@ body {
   align-items: center;
 }
 
+.colorTxt {
+  font-size: 30px;
+  font-weight: 700;
+  color: #000;
+}
+
+.hex {
+  font-size: 30px;
+  color: #000;
+}
 .colorBtn {
   background: rgba(0, 0, 0, 0.3);
   padding: 35px;
